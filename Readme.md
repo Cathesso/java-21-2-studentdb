@@ -4,7 +4,7 @@
 Überlege was die Unterschiede zwischen der Verwendung eines Interfaces und Vererbung sind und schreibe Vor- und Nachteile auf.
 - Interface
   - Vorteile:
-    - Alle Klassen, die ein Interface implementieren haben definitiv die vorgegebenen Methoden.
+    - Alle Klassen, die ein Interface implementieren haben, haben definitiv die vorgegebenen Methoden.
     - Von außen muss man sich keine Gedanken über die Implementierung machen.
   - Nachteile:
     - Viel doppelter Code.
@@ -12,4 +12,4 @@
     - Vorteile:
       - Wenig doppelter Code.
     - Nachteile:
-      - Wenn sich die Elternklasse ändert muss sehr viel angepasst werden.
+      - Wenn sich die Elternklasse ändert, muss sehr viel angepasst werden.
